@@ -1,5 +1,5 @@
 #!/bin/bash
-#Este es el ultimo 1:23
+
 DISTRO1="DEBIAN"
 DISTRO2="UBUNTU"
 if [[ "$DISTRO1" = "$DISTRO2" ]]; then
@@ -8,4 +8,4 @@ else
 	echo "SON DIFERENTES"
 fi
 
-echo "Este es el ultimo 1:23"
+echo "Este es el ultimo 1:40 sin parentesis"
