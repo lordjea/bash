@@ -4,7 +4,7 @@ cadena2="a"
 
 cadena1=""
 
-# !=  >  <  
+# !=  -eq -lt -gt  
 # -n la cadena no esta vacia
 # -z la cadena esta vacia
 
