@@ -24,5 +24,5 @@ read nombre_respaldo
 
 #Invocaremos a la utilidad tar para comprimir nuestro respaldo
 
-tar -czf "$nombre_respaldo.tgz" $1
-echo "Respaldo realizado exitosamente en $nombre_respaldo.tgz"
+tar -czf "backups/$nombre_respaldo.tgz" $1
+echo "Respaldo realizado exitosamente en el directorio Backups archivo: $nombre_respaldo.tgz"
